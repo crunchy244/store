@@ -1,8 +1,16 @@
 {
   "name": "store",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "crunchy244 <18623773+crunchy244@users.noreply.github.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crunchy244/store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crunchy244/store/issues"
+  },
+  "homepage": "https://github.com/crunchy244/store#readme",
   "private": true,
   "scripts": {
     "start": "npm run start:react",
