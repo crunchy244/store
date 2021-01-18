@@ -1,4 +1,4 @@
-# Store ~ [![ci](https://github.com/crunchy244/store/workflows/ci/badge.svg)](/actions) [![codecov](https://codecov.io/gh/crunchy244/store/branch/master/graph/badge.svg)](https://codecov.io/gh/crunchy244/store) [![dependencies](https://img.shields.io/david/crunchy244/store.svg)](https://david-dm.org/crunchy244/store)
+# Store ~ [![ci](https://github.com/crunchy244/store/workflows/ci/badge.svg)](/actions) [![codecov](https://codecov.io/gh/crunchy244/store/branch/master/graph/badge.svg)](https://codecov.io/gh/crunchy244/store)
 
 Redux reimagined with usability in mind and React hooks.
 
